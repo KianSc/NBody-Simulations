@@ -26,7 +26,7 @@ class IsingModel:
 
     def step(self):
 
-        for _ in range(self.size * self.size):
+        for i in range(self.size * self.size):
 
             i, j = np.random.randint(0, self.size, 2)
             
@@ -61,7 +61,6 @@ def animate_ising():
         return img,
 
     # Create Animation
-    # frames=200 allows you to save a decent length GIF later if needed
     ani = animation.FuncAnimation(fig, update, frames=200, interval=50, blit=True)
     
     plt.show()
