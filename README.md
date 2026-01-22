@@ -1,3 +1,1 @@
-These are a few simulations I createed in Python using Matplotlib's animation feature. 
-The Physics for the N-Body simulations using Newton's law for Gravitation and Verlet integration.
-Feel free to mess around with the settings!
+file:///Users/kianschiffhauer/Desktop/Python_Projects/Numpy_test/nbody_simulation.gif
