@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="nbody_simulation.gif" width="600" />
-  <p><em>A simulation of 3 bodies interacting under Newtonian gravity, visualized in real-time.</em></p>
+  <p><em>A simulation of N = 600 bodies interacting under Newtonian gravity, visualized in real-time.</em></p>
 </div>
 
 ## Overview
