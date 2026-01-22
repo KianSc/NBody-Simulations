@@ -1,4 +1,4 @@
-#3D N-Body Gravity Simulation
+# 3D N-Body Gravity Simulation
 
 <div align="center">
   <img src="nbody_simulation.gif" width="600" />
